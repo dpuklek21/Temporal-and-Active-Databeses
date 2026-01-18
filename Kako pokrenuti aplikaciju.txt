@@ -1,0 +1,7 @@
+Aplikacija se sastoji od dva dijela a to su: baza i sučelje za unos.
+
+Baza podataka odnosno baza_ap.sql pokreće se u pgAdmin4 alatu nakon što se instalira PostgreSQL. Naziv servera jest: TBP, host: localhost, user: postgres, password: dino1234
+
+Sučelje odnosno gui.py datoteku potrebno je otvoriti u Pythonu. Prije pokretanja programa potrebno je instalirati biblioteku: "pip install psycopg2-binary". Aplikacija se pokreće s py gui.py.
+
+Link na Github: https://github.com/dpuklek21/Temporal-and-Active-Databeses.git
